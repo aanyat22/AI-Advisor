@@ -1,0 +1,1352 @@
+[
+    {
+        "number": "2020",
+        "title": "Introduction to Analog Systems and Circuits",
+        "description": "Circuit theory and applications of passive components and Op amps. Introduction to analog systems using differential equations and Laplace transforms.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: Math 1152, 1161.01, 1161.02, 1172, or 1181H; and Physics 1250, 1250H, 1260, CHEM 1210, or 1250. Not open to students with credit for 2100, 2100.02, 2100.06, 2100.07, 2100.08, 2105, 2106, 2110, 2127, 2137, 2300, or 2360.",
+        "exclusions": "Not open to students with credit for 2100, 2100.02, 2100.06, 2100.07, 2100.08, 2105, 2106, 2110, 2127, 2137, or 2300."
+    },
+    {
+        "number": "2021",
+        "title": "Introduction to Analog Systems and Circuits for Transfer Students Lecture",
+        "description": "Lecture-only component of ECE 2020, for transfer students.\u00a0 Circuit theory and applications of passive components and Op amps.\u00a0 Introduction to analog systems using differential equations and Laplace transforms.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "2.5",
+        "prerequisites": "Prereq: Math 1152 or 1161.01 or 1161.02 or 1172 or 1181H, and Physics 1250, 1250H or 1260, and CSE 1222 or 2221 or Engr 1281.01H or 1281.02H or 1222; and Engr 1182.01 or 1182.02 or 1182.03 or 1282.01H or 1282.02H or 1282.03H, or Engr 1186 and 1187 and concur: 1188 concurrent, or 1187 and 1188 and concur: 1186; and CPHR 2.00 or above.",
+        "exclusions": "Not open to students with credit for 2020, 2100, 2100.02, 2100.06, 2105, 2106, 2110, 2300, 205, 292, 294.03, or 301."
+    },
+    {
+        "number": "2027",
+        "title": "Introduction to Analog Systems and Circuits Lab for Transfer Students",
+        "description": "Laboratory-only component of ECE 2020, for transfer students.\u00a0 Laboratory practice with circuit theory, analog systems, and applications of passive components and Op amps.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "0.5",
+        "prerequisites": "Prereq:\u00a0 2021, and CPHR 2.00 or above.",
+        "exclusions": "Not open to students\u00a0 with credit for 2020, 2100, 2100.02, 2100.07, 2100.08, 2127, 2137, 209, 292, or 294.03."
+    },
+    {
+        "number": "2050",
+        "title": "Introduction to Discrete Time Signals and Systems",
+        "description": "Introduction to sampled time signals and linear time invariant sampled time systems.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 2060, 2000, or 2061 and 2067; and CSE 1222. Prereq or concur: Math 2174 or 2568",
+        "exclusions": "Not open to students with credit for 2100, 2100.01, 2100.04, 2104, or 2110."
+    },
+    {
+        "number": "2051",
+        "title": "Introduction to Discrete Time Signals & Systems Lecture",
+        "description": "Introduction to sampled time signals and linear time invariant sampled time systems. Lecture only.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "2.5",
+        "prerequisites": "Prereq: 2000, or 2060, or 2061 and 2067. Prereq or concur: Math 2174 or 2568.",
+        "exclusions": "Not open to students with credit for 2100, 2100.01, 2100.04, 2104, 2110, or 2050."
+    },
+    {
+        "number": "2057",
+        "title": "Introduction to Discrete Time Signals & Systems Laboratory",
+        "description": "Introduction to samples time signals and linear time invariant sampled time systems. Lab only.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "0.5",
+        "prerequisites": "Prereq or concur: 2051.",
+        "exclusions": "Not open to students with credit for 2100, 2100.01, 2100.04, 2110, or 2050."
+    },
+    {
+        "number": "2060\n\t\t\t(also @ Marion campus)",
+        "title": "Introduction to Digital Logic",
+        "description": "Introduction to the theory and practice of combinational and clocked sequential networks.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: Not open to students with credit for 2000, 2000.02, 2000.07, 2001, 2010 or 2017.",
+        "exclusions": ""
+    },
+    {
+        "number": "2061",
+        "title": "Introduction to Digital Logic for Transfer Students Lecture",
+        "description": "Lecture-only component of ECE 2060, for transfer students.\u00a0 Introduction to the theory and practice of combinational and clocked sequential networks.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "2.5",
+        "prerequisites": "Prereq: Math 1152 or 1161.01 or 1161.02 or 1172 or 1181H, and Physics 1250, 1250H or 1260, and CSE 1222 or 2221 or Engr 1281.01H or 1281.02H or 1222; and Engr 1182.01 or 1182.02 or 1182.03 or 1282.01H or 1282.02H or 1282.03H, or Engr 1186 and 1187. and concur: 1188 concurrent, or 1187 and 1188 and concur: 1186, or major in CIS or CIS-PRE; and CPHR 2.00 or above.",
+        "exclusions": "Not open to students with credit for 2000, 2000.02, 2001, 2010, 2060, 261, 290, or 294.01."
+    },
+    {
+        "number": "2067",
+        "title": "Introduction to Digital Logic Lab for Transfer Students",
+        "description": "Laboratory-only component of ECE 2060 for transfer students.\u00a0 Laboratory practice with and application of the theory of combinational and clocked sequential networks.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "0.5",
+        "prerequisites": "Prereq:\u00a0 2061, and CPHR 2.00 or above.",
+        "exclusions": "Not open to students with credit for 2000, 2000.02, 2000.07, 2017, 2060, 270, 290, or 294.01."
+    },
+    {
+        "number": "2193",
+        "title": "Individual Studies in Electrical and Computer Engineering",
+        "description": "Individual studies project.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "0.0-10.0",
+        "prerequisites": "Repeatable to a maximum of 12.0 cr hrs or 10 completions. This course is graded S/U. Permission of instructor required.",
+        "exclusions": ""
+    },
+    {
+        "number": "2300",
+        "title": "Electrical Circuits and Electronic Devices",
+        "description": "Introduction to circuit analysis; circuit analysis concepts and mechanical systems analogies; theory and applications of electronic devices; operational amplifiers; electrical instruments and measurements.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: Physics 1251\u00a0 or 1261, and Math 1172 or 1544 or 2153 or 2162.01 or 2162.02 or 2182H or 4182H, and CPHR 2.0 or above, and enrollment in College of Engineering.",
+        "exclusions": "Not open to students majoring in ECE."
+    },
+    {
+        "number": "2301",
+        "title": "Electrical Circuits and Electronic Devices Lecture",
+        "description": "Introduction to circuit analysis; circuit analysis concepts and mechanical systems analogies; theory and applications of electronic devices; operational amplifiers; electrical instruments and measurements. Lecture portion only.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "2.5",
+        "prerequisites": "Prereq: Physics 1251\u00a0 or 1261, and Math 1172 or 1544 or 2153 or 2162.01 or 2162.02 or 2182H or 4182H, and CPHR 2.0 or above, and enrollment in College of Engineering.",
+        "exclusions": "Not open to students with credit for 2300, or students majoring in ECE."
+    },
+    {
+        "number": "2307",
+        "title": "Electrical Circuits and Electronic Devices Laboratory",
+        "description": "Introduction to circuit analysis; circuit analysis concepts and mechanical systems analogies; applications of electronic devices; operational amplifiers; electrical instruments and measurements. Lab only.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "0.5",
+        "prerequisites": "Prereq or concur: 2301.",
+        "exclusions": "Not open to students with credit for 2300, or students majoring in ECE."
+    },
+    {
+        "number": "2360",
+        "title": "Electronics for CSE Majors",
+        "description": "Electronics course for CSE majors. Circuit analysis and design around embedded systems.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: Engr 1182.01, 1182.02, 1182.03, 1282.01H, 1282.02H, 1282.03H, 1282.04H, or 1186, 1187 and 1188 concurrent; and Math 1152, 1161.01, 1161.02, 1172, or 1181H; and Physics 1250 or 1260; CPHR 2.00 or above, and enrollment in CSE major.",
+        "exclusions": "Not open to students with credit for ECE 2020 or 2300."
+    },
+    {
+        "number": "2560",
+        "title": "Introduction to Microcontroller-Based Systems",
+        "description": "Hardware and software organization of a typical microcontroller; machine language programming, interfacing peripheral devices, and input-output programming; real-time computer applications.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "2.0",
+        "prerequisites": "Prereq: 2000, 2001, 2060, or 2061 and prereq or concur: 2000.07 or 2017; and CSE 1221, 1222, Engr 1281.01H, 1281.02H, or 1222, and enrollment in ECE, CSE, or EngPhysics major; or prereq or concur: 2010 or 2067, and permission of department.",
+        "exclusions": "Not open to students with credit for CSE 2421."
+    },
+    {
+        "number": "2998.01",
+        "title": "Undergraduate Research",
+        "description": "Supervised undergraduate research in various topics.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "0.5-3.0",
+        "prerequisites": "Prereq:\u00a0 Permission of instructor.\u00a0 Repeatable to a maximum of 6.0 cr hrs or 6 completions.",
+        "exclusions": ""
+    },
+    {
+        "number": "2998.02",
+        "title": "Undergraduate Research",
+        "description": "Supervised undergraduate research in various topics.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "0.5-3.0",
+        "prerequisites": "Prereq:\u00a0 Permission of instructor.\u00a0 Repeatable to a maximum of 6.0 cr hrs or 6 completions.\u00a0 This course is graded S/U.",
+        "exclusions": ""
+    },
+    {
+        "number": "3010",
+        "title": "Introduction to Radio Frequency and Optical Engineering",
+        "description": "Waves and pulses on transmission lines; charges, fields, and potentials; inductance and capacitance; Faraday\u2019s law; Maxwell\u2019s Equations; plane wave propagation, polarization, reflection, and transmission.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 2020, 2021, 2100, 2100.02, 2100.06, or 2105; and Physics 1251 or 1261, or both 1240 and 1241; and Math 2415 or 2174; and enrollment in ECE or EngPhysics major; or prereq or concur: 2010 or 2061, and permission of department.",
+        "exclusions": "Not open to students with credit for 3010.01, 3010.02."
+    },
+    {
+        "number": "3020",
+        "title": "Introduction to Electronics",
+        "description": "Electronics:\u00a0 diode and transistor models for amplifiers, switches, and logic gates.\u00a0\u00a0 Multiple transistor circuit analysis, op amps, and electronic systems.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 2100 or 2020; or 2021 or 2106, and 2027 prereq or concur; and ECE or EngPhys major, or 2110 prereq or concur and permission of department.",
+        "exclusions": ""
+    },
+    {
+        "number": "3027",
+        "title": "Electronics Laboratory",
+        "description": "Electronic amplification, signal processing, timing, and power regulation circuits. Experiments with electronics evaluation modules and use of an analog system lab kit for electronics testing.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "1.0",
+        "prerequisites": "Prereq: 3020; and ECE or EngPhysics major.",
+        "exclusions": ""
+    },
+    {
+        "number": "3030",
+        "title": "Semiconductor Electronic Devices",
+        "description": "Semiconductor materials and devices. Crystals; bandstructure; charge carrier statistics; excess carriers, transport; PN junction; Schottky barrier; bipolar and field-effect transistors; optoelectronic devices; nanoscale devices.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: Physics 1251, 1261, or both 1240 and 1241; and Chem 1210, 1220, or 1250; and enrollment in ECE, MSE, or EngPhysics major. Prereq or concur: Math 2415 or 2174.",
+        "exclusions": "Not open to students with credit for 331 or 432."
+    },
+    {
+        "number": "3040",
+        "title": "Sustainable Energy and Power Systems I",
+        "description": "Introduction to electrical energy systems; history, current trends, renewable and non-renewable sources, rotating machines and their operation, and smart grid initiatives.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 2100, 2100.02, 2105, 2020, 2021, 205, 292 or 294 (Spring 2011), and enrollment in ECE or EngPhysics major.",
+        "exclusions": "Not open to students with credit for 341."
+    },
+    {
+        "number": "3047",
+        "title": "Electrical Energy Conversion Laboratory",
+        "description": "Laboratory introducing basics of energy conversion processes for electrical energy supply systems utilizing conventional rotating machines and hardware-in-the-loop simulation system for sustainable energy systems.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "1.0",
+        "prerequisites": "Prereq: 3040, and enrollment in ECE or EngPhysics major.",
+        "exclusions": "Not open to students with credit for ECE 447"
+    },
+    {
+        "number": "3050",
+        "title": "Signals and Systems",
+        "description": "Linear systems and models in continuous and discrete time; convolution; Fourier series and transform; frequency response; Laplace transform; z-transform; applications.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 2020, 2050, and 2060; or 2100; and Math 2568; and enrollment in ECE or EngPhysics major",
+        "exclusions": ""
+    },
+    {
+        "number": "3090",
+        "title": "Technical Writing and Presentations",
+        "description": "Technical writing and communications skills.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "1.0",
+        "prerequisites": "Prereq: ECE 3905, ENGR 5901.01, or ENGR 5902.02",
+        "exclusions": ""
+    },
+    {
+        "number": "3551",
+        "title": "Introduction to Feedback Control Systems",
+        "description": "Provides fundamental concepts in feedback control systems design and analysis.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: ECE 3050",
+        "exclusions": ""
+    },
+    {
+        "number": "3561",
+        "title": "Advanced Digital Design",
+        "description": "Design and analysis of sequential circuits; digital circuit design using building blocks, programmable logic devices; design of basic computer components such as arithmetic logic units.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 2000, 2060, 2061, 2010, 2000.02, 290, 294 (Au10) or 206 and 261.\u00a0 Prereq or concur: 3020 (323), and enrollment in ECE, EngPhys, or CSE majors; or prereq or concur: 2010, and permission of department.",
+        "exclusions": "Not open to students with credit for 561."
+    },
+    {
+        "number": "3567",
+        "title": "Microcontroller Lab",
+        "description": "Laboratory in which a microcontroller is used to interface real-world hardware to make a functioning system.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "1.0",
+        "prerequisites": "Prereq:\u00a0 2560 or CSE 2421, and enrollment in ECE, CSE, or EngPhysics major.",
+        "exclusions": "Not open to students with credit for 3567.01 ."
+    },
+    {
+        "number": "3906",
+        "title": "Capstone Design I",
+        "description": "Fundamentals of the engineering design process. Application of design principles and methodology to conceptual and detailed technical design. Technical writing and communications skills. Project management during design.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "4.0",
+        "prerequisites": "Prereq or concur: 3080 or Philos 1332; and ECE 2560, 3010, 3020, 3027, 3030, 3040, and 3050; and GE Writing/Comm level 2 or Writing and Info Lit; and GenEd 1201 or 2601; and Sr standing; and enrollment in Electrical\u00a0Eng Program of Study (EES subplan).",
+        "exclusions": "Not open to students with credit for 3900, 3905, 4900, 4900H, 4901, or Engr 5901.01. This course is progress graded."
+    },
+    {
+        "number": "4021",
+        "title": "Analog Integrated Circuits I",
+        "description": "Fundamentals of analog integrated circuits. CMOS transistors and diodes large-signal and small-signal operation and modeling. On-chip passive components operation and modeling. Simple and advanced current mirrors, single-ended and differential CMOS amplifiers, CMOS OTAs and Op-Amps. Integrated Circuits Fabrication, Packaging, and Testing.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 3020",
+        "exclusions": "Not open to students with credit for 5021."
+    },
+    {
+        "number": "4193",
+        "title": "Individual Studies in Electrical and Computer Engineering",
+        "description": "Individual studies project.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "0.0-12.0",
+        "prerequisites": "Repeatable to a maximum of 12.0 cr hrs or 12 completions. This course is graded S/U.",
+        "exclusions": ""
+    },
+    {
+        "number": "4567",
+        "title": "Design of Mobile Internet-of-Things",
+        "description": "This course focuses on theoretical and practical insights into design of Internet of Things architectures and mobile platforms. Concepts covered in this course include general IoT architectures, sensor, processing, and communication resources, device and cloud connectivity, mobility support. Practical aspects will be studied with lab assignments and the semester-long group projects.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "4.0",
+        "prerequisites": "Prereq: 2560, 3020, and 3027",
+        "exclusions": ""
+    },
+    {
+        "number": "4905",
+        "title": "Capstone Design II",
+        "description": "Application of project management, design principles and methodology to conceptual and detailed technical design, implementation, and testing of a capstone project.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 3905 and 3090, or 3906.",
+        "exclusions": "Not open to students with credit for 4900, 4900H, 4901, Engr 5901.01, 5901.02H, 5902.01, or 5902.02H"
+    },
+    {
+        "number": "4905H",
+        "title": "Design II with Honors Thesis Project",
+        "description": "Application of design principles and methodology to conceptual and detailed technical design, implementation and testing, culminating in a capstone design project.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: Honors standing; and 3905 and 3090, or 3906; and permission of department.",
+        "exclusions": "Not open to students with credit for 4900, 4900H, 4901, Engr 5902.01 or 5902.01H"
+    },
+    {
+        "number": "4998.01",
+        "title": "Undergraduate Research",
+        "description": "Supervised undergraduate research in various topics.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "0.5-3.0",
+        "prerequisites": "Prereq: Permission of instructor. Repeatable to a maximum of 6 cr hrs or 6 completions.-",
+        "exclusions": ""
+    },
+    {
+        "number": "4998.01H",
+        "title": "Undergraduate Honors Research",
+        "description": "Supervised research in various topics for undergraduate honors students.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "0.5-3.0",
+        "prerequisites": "Prereq: Honors standing; or GPA 3.4 or above, and permission of instructor.\u00a0 Repeatable to a maximum of 6 cr hrs or 6 completions.",
+        "exclusions": ""
+    },
+    {
+        "number": "4998.02",
+        "title": "Undergraduate Research",
+        "description": "Supervised undergraduate research in various topics.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "0.5-3.0",
+        "prerequisites": "Prereq: Permission of instructor. Repeatable to a maximum of 6 cr hrs or 6 completions. This course is graded S/U.",
+        "exclusions": ""
+    },
+    {
+        "number": "4999.01",
+        "title": "Undergrduate Thesis Research",
+        "description": "Undergraduate Thesis (Distanction) research on topics in Electrical & Computer Engineering.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "0.5-3.0",
+        "prerequisites": "Prereq:\u00a0 GPA 3.0 or above, and enrollment in ECE major, and approved Thesis (Distinction) project.\u00a0 Repeartable to a maximum of 6 cr hrs or 6 completions.",
+        "exclusions": ""
+    },
+    {
+        "number": "4999.01H",
+        "title": "Undergraduate Honors Thesis Research",
+        "description": "Undergraduate Honors Thesis (Distinction) research on topics in electrical & computer engineering.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "0.5-3.0",
+        "prerequisites": "Prereq: Honors Status or minimum GPA of 3.4 and approved Honors Thesis (Distinction) Project.\u00a0 Repeatable to a maximum of 6 cr hrs or 6 completions.",
+        "exclusions": "Open only to Electrical and Computer Engineering majors."
+    },
+    {
+        "number": "5000",
+        "title": "Introduction to Analog and Digital Communications",
+        "description": "Communications channel modeling, analog communication schemes, digital communication schemes, error rate analysis, and error control coding.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 3050, and Stat 3470 or Physics 3700; or Grad standing.",
+        "exclusions": ""
+    },
+    {
+        "number": "5010",
+        "title": "Wireless Propagation and Remote Sensing",
+        "description": "Practical methods for predicting tropospheric, groundwave, and ionospheric propagation, including refraction, reflection, and extinction effects.\u00a0 Study of remote sensing systems and their applications.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 3010, or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences.",
+        "exclusions": "Not open to students with credit for 713."
+    },
+    {
+        "number": "5011",
+        "title": "Antennas",
+        "description": "Electromagnetic radiation; fundamental antenna parameters; dipole, loops, patches, broadband and other antennas; array theory; ground plane effects; horn and reflector antennas; pattern synthesis; antenna measurements.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisites: ECE 3010 or 312 or\u00a0 or graduate standing in engineering or biological sciences or math & physical sciences.",
+        "exclusions": "Not open to students with credit for ECE 711."
+    },
+    {
+        "number": "5012",
+        "title": "Integrated Optics",
+        "description": "Fundamentals of planar lightwave circuits and guided wave devices; laser light in anisotropic media; electrooptic and nonlinear optical effects; concepts in telecommunications, RF photonics, nanobiotechnology.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisites: ECE 3010, or grad standing in engineering or biological sciences or math & physical sciences.",
+        "exclusions": "Not open to students with credit for 717."
+    },
+    {
+        "number": "5013",
+        "title": "Introduction to Radar Systems",
+        "description": "Introduces the fundamentals of radar such as the main concepts and techniques used in modern radar systems.\u00a0 The class is a survey course exposing students to a wide range of radar applications and design issues.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 3050, and 3010 or 3010.01, and Stat 3470; or Grad standing in Engr.",
+        "exclusions": "Not open to students with credit for 714 or 5194.01."
+    },
+    {
+        "number": "5017",
+        "title": "Microwave Engineering",
+        "description": "Transmission line theory; multiconductor; S-parameters; transformers, couplers, filters, resonators, circulators; electromagnetic interference and compatibility; computer-aided design; microstrip realization and testing with a network analyzer.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "4.0",
+        "prerequisites": "Prereq: 3010, and enrollment in ECE major; or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences.",
+        "exclusions": "Not open to students with credit for 710."
+    },
+    {
+        "number": "5020",
+        "title": "Mixed Signal VLSI",
+        "description": "Design and circuit analysis of basic VLSI structures such as registers, cell libraries, digital and analog I/O.\u00a0 Physical layout, timing analysis, PLLs, design tools.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisites: 3020, or graduate standing in engineering or biological sciences or math & physical sciences.",
+        "exclusions": "Not open to students with credit for 721."
+    },
+    {
+        "number": "5021",
+        "title": "Analog Integrated Circuits II",
+        "description": "Advanced analog integrated circuits. Linear feedback networks design and stability analysis, multi-stage CMOS op-amp design and compensation, fully-differential op-amps and common-mode feedback networks, comparators, transconductors, bandgaps, sample and hold circuits, switched-capacitor circuits, noise analysis of CMOS circuits.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 4021, or Grad standing in Engineering and permission of instructor.",
+        "exclusions": ""
+    },
+    {
+        "number": "5022",
+        "title": "Introduction to RF Systems",
+        "description": "Intuitive system design methods to dissect the radio modem in analog & digital domains with emphasis on: a) performance evaluation using hand calculations and simulation, and b) understanding of the interaction between RF components and radio architectures. Topics include: system parameters, propagation & antennas, noise, distortion, modulation & aerial access, phase noise, RF transceivers.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq or concur: 4021 or 5021, or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences.",
+        "exclusions": ""
+    },
+    {
+        "number": "5023",
+        "title": "Fundamentals of Integrated Data Converters",
+        "description": "This course focuses on the fundamentals of Nyquist-rate and oversampled (Delta-Sigma) integrated data\n\t\t\tconverters, including system and circuit architectures, performance metrics and characterization, practical\n\t\t\timplementations, and design considerations in advanced semiconductor processes. Nyquist-rate ADC\n\t\t\tarchitectures covered include flash, two-step, pipelined, SAR, and integrating architectures",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 4021, or Grad standing in Engr or Physics.",
+        "exclusions": ""
+    },
+    {
+        "number": "5025",
+        "title": "Power Electronics Devices, Circuits, and Applications",
+        "description": "The course will provide an introduction to power electronic conversion principles. Analytical techniques will be developed through the study of widely used converter circuits.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: ECE3020 or ECE 323\u00a0 or graduate standing in engineering or biological sciences or math & physical sciences.",
+        "exclusions": "Not open to students with credit for ECE 624, 724 or 844."
+    },
+    {
+        "number": "5027",
+        "title": "Microwave Active Circuits",
+        "description": "Design principles of microwave transistor amplifiers and oscillators; low-noise, power and broadband amplifiers; linearization; computer-aided design; microstrip realizations and testing in the laboratory.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "4.0",
+        "prerequisites": "Prerequisites: Acceptance in ECE major and ECE 3020 or 323;\u00a0 or graduate standing in engineering or biological sciences or math & physical sciences.",
+        "exclusions": "Not open to students with credits for ECE723"
+    },
+    {
+        "number": "5031",
+        "title": "Semiconductor Process Technology",
+        "description": "Discrete and integrated circuit device design, silicon VLSI processing technologies,III-V compound semiconductor device fabrication technologies; epitaxy, doping, bandgap engineering; and device measurements and failure mechanisms.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: ECE 3030, or graduate standing in engineering, biological sciences, or math & physical sciences.",
+        "exclusions": ""
+    },
+    {
+        "number": "5033",
+        "title": "Surfaces and Interfaces of Electronic Materials",
+        "description": "Provides the fundamental and practical basis for designing, processing, and characterizing the interfaces controlling the next generations of microelectronic and optoelectronic device structures.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 3030, or MatScEn 3271; or Grad standing in Engineering, Biological Science, or Math and Physical Sciences.",
+        "exclusions": ""
+    },
+    {
+        "number": "5037",
+        "title": "Solid State Electronics & Photonics Lab",
+        "description": "Introduction to Introduction to laboratory techniques for semiconductor device fabrication including photolithography, oxidation, diffusion, chemical processes, reactive ion etching, and metallization; fabrication and measurements of visible light emitting diodes (LED) and GaN High Electron Mobility Transistor (HEMT).",
+        "subject": "Electrical and Computer Engineering",
+        "units": "4.0",
+        "prerequisites": "Prereq or concur: 3030, and acceptance in ECE, MSE or EngPhysics major; or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences.",
+        "exclusions": ""
+    },
+    {
+        "number": "5041",
+        "title": "Electric Machines",
+        "description": "Principles of electromechanical energy conversion; basic structures of electric machines; steady state models and performance analysis;\u00a0 Advanced topics on AC machine control.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisites: ECE 3040 or 341, and ECE 3020 or 323;\u00a0 or graduate standing in engineering or biological sciences or math & physical sciences.",
+        "exclusions": "Not open to students with credit for ECE 643 or ECE 743."
+    },
+    {
+        "number": "5042",
+        "title": "Power Systems",
+        "description": "A power system analysis course presenting power systems loads, modeling of transformers and power system model for voltage calculation and faults.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: 3040, or graduate standing in Engineering, Biological Sciences, or Math and Physical Sciences.",
+        "exclusions": "Not open to students with credit for ECE 640, 740, or 741."
+    },
+    {
+        "number": "5043",
+        "title": "Power Systems - Analysis and Operation",
+        "description": "Power systems analysis and operations, including steady-state analysis, state estimation, and economic operation.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 3040, Sr. standing, and ECE major; or Sr standing and ISE major; and Math 2568; or Grad standing in engineering or biological sciences or math and physical sciences.",
+        "exclusions": "Cross-listed with ISE 5043."
+    },
+    {
+        "number": "5047",
+        "title": "High Voltage Engineering and Laboratory",
+        "description": "Dielectric strength and breakdown of gases, liquids, and solids, electric field design problems in power system equipment; laboratory study of high voltage insulation.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite:\u00a0 Acceptance in ECE major, and ECE 3040 or ECE 341;\u00a0 or graduate standing in engineering or biological sciences or math & physical sciences.",
+        "exclusions": "Not open to students with credit for ECE 747."
+    },
+    {
+        "number": "5050",
+        "title": "Humanitarian Engineering",
+        "description": "Poverty and underdevelopment. Goal of social justice. Development strategies. Engineering for the poor, weak, and developing communities. Humanitarianism in the university and engineering enterprise.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "ENGR 1182 or 1282H, or grad standing, or permission of instructor.",
+        "exclusions": "Not open to students with credit for ENGR 5050."
+    },
+    {
+        "number": "5078",
+        "title": "Empowering the Entrepreneurial Electrical and Computer Engineer",
+        "description": "This course will teach entrepreneurial minded engineers the process of value creation from their ECE relevant technology or inventions. Topics covered will include self-assessment as an entrepreneur and innovator, analysis and validation of new venture opportunities, intellectual property creation and assessment new venture planning and project management, leadership and team building.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 3010, 3020, 3030, 3040, or 3050; or grad standing in Engineering",
+        "exclusions": "Not open to students with credit for 5194.13."
+    },
+    {
+        "number": "5101",
+        "title": "Introduction to Wireless Networking",
+        "description": "Fundamental concepts in cellular design, Wireless-LANs, MANETs, and sensor networks will be explored. Specific topics will include propagation, fading, cellular-design, power-management, routing, scheduling, and control.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Undergrad prereq: 3561 or CSE 3461, and STAT\u00a02450 or 3470.xx.\u00a0Grad prereq: Grad standing in Engineering or Math and Physical Sciences.",
+        "exclusions": "Not open to students with credit for CSE 5463.\u00a0 Cross-listed\u00a0 in CSE 5463."
+    },
+    {
+        "number": "5120",
+        "title": "Introduction to Integrated Circuits Test and Measurement",
+        "description": "Parametric testing techniques for analog, digital, mixed and RF ICs, DSP-based testing; noise effects on accuracy; Design-for-Test and Built-in-Self Tests.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 3020, or 323 and 351, or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences.",
+        "exclusions": "Not open to students with credit for 625, 694 (Sp09), or 694.04."
+    },
+    {
+        "number": "5127",
+        "title": "Power Electronics Lab",
+        "description": "Laboratory introducing basic circuits of power electronics, and simulation and control hardware and software for various power and energy applications.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "1.0",
+        "prerequisites": "Prereq: ECE 3040 (341) and enrollment in ECE major, or Grad standing in Engineering.",
+        "exclusions": "Not open to students with credit for 628 or 647."
+    },
+    {
+        "number": "5131",
+        "title": "Lasers",
+        "description": "Atomic interaction with radiation, cavities with gain, optical processes in semiconductors, strain in laser design,\n\t\t\tdiode lasers, and advanced semiconductor lasers.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 3010 and 3030, or graduate standing in engineering or biological sciences or math & physical sciences.",
+        "exclusions": "Not open to student with credit for ECE 732."
+    },
+    {
+        "number": "5132",
+        "title": "Photonics",
+        "description": "Fiber optics, optical systems and devices, optical detection, photonic band gaps, holography, and optical data storage.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 3010, 3010.01, or 3010.02, and 3030 or 3030.01; or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences.",
+        "exclusions": "Not open to students with credit for 5132.01."
+    },
+    {
+        "number": "5200",
+        "title": "Introduction to Digital Signal Processing",
+        "description": "Sampling and reconstruction; discrete-time rate conversion; processing of discrete-time signals; design of\n\t\t\tdiscrete-time filters, selected topics in adaptive filtering, time-frequency analysis, and wavelets.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 3050, and Stat 3470 or Math 4530; or Grad standing.",
+        "exclusions": "Not open to students with credit for 600 or 801.01."
+    },
+    {
+        "number": "5206",
+        "title": "Medical Imaging and Processing",
+        "description": "Introduction to medical imaging techniques (CT, MRI, PET, ultrasound), including data collection, image reconstruction, physics of tissue interactions, and digital processing of medical images.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Undergrad Prereq: 3050, and Concur: 3905; or BME 4110, and Concur: 3701. Grad Prereq: Grad standing in\n\t\t\tECE, BiomedE, or Biophys",
+        "exclusions": "Not open to students with credit for BME 5160. Cross-listed in BME 5160."
+    },
+    {
+        "number": "5227",
+        "title": "Fundamentals of Power Management Integrated Circuits for VLSI Systems",
+        "description": "Theory, design and applications of integrated power management integrated circuits in VLSI systems. This includes: system and circuit architectures, performance metrics, practical implementations, design considerations in VLSI systems in advanced CMOS processes, and design techniques for integrated power regulators and battery chargers. Background in basic analog design is strongly recommended.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "4.0",
+        "prerequisites": "Prereq:\u00a0 4021, or Grad standing in Engineering or Physics.",
+        "exclusions": ""
+    },
+    {
+        "number": "5244",
+        "title": "Si and Wide Band Gap Power Devices",
+        "description": "Basic design and operation of Si and Wide Band Gap (WBG: SiC, GaN and ultra wide band gap semiconductors) power devices and the applications of commercial devices in power electronics applications. Trade-offs between various devices. Static and dynamic operation. Comparison of Si and SiC devices and design differences.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 3030, or MatScEn 3271; or Grad standing in Engr or Physics",
+        "exclusions": "Not open to students with credit for 5194.07 or 5234."
+    },
+    {
+        "number": "5307",
+        "title": "Introduction to Machine Learning for ECE",
+        "description": "Introduction to Machine Learning. Coverage includes linear regression, linear classification, model and feature\n\t\t\tselection, neural networks, clustering, and principle components analysis. Python will be used for implementation examples.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "4.0",
+        "prerequisites": "Prereq: CSE 1222 or Engr 1281.xx, and Math 2568 and Stat 3470, and enrollment in ECE major; or Grad standing.",
+        "exclusions": "Not open to students with credit for 4194.02 (Sp19, Machine Learning), 4300, 5300, or MechEng 5194 (Au19,\n\t\t\tApplied ML for MAE)."
+    },
+    {
+        "number": "5362",
+        "title": "Computer Architecture and Design",
+        "description": "Design of general purpose digital computers including arithmetic and control units, input/output, and memory subsystems.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 2560 and 3561, and undergraduate enrollment in ECE, CSE, or EngPhysics major; or Grad standing in Engineering.",
+        "exclusions": "Not open to students with credit for CSE 3421."
+    },
+    {
+        "number": "5400",
+        "title": "Instrumentation, Signals, and Control in Transportation Applications",
+        "description": "Interdisciplinary course bringing together electrical engineering tools and transportation applications. Students gain valuable experience working in teams while learning traffic flow, surveillance and control.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 2020 and 2050, and Math 2415; or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences, or permission of instructor",
+        "exclusions": "Not open to students with credit for CivilEn 4750 or 6750. Crosslisted in CivilEn 5750."
+    },
+    {
+        "number": "5460",
+        "title": "Image Processing",
+        "description": "Fundamentals and research directions in image processing: cameras, geometry, calibration, 2D and 3D image reconstruction, stereo, structure from motion, Radiometry, filtering, motion estimation, and applications.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: Stat 3470, and Math 2568; or Grad standing in Engr, BioSci, Stat, BioMinf, or PhysSci.",
+        "exclusions": ""
+    },
+    {
+        "number": "5463",
+        "title": "Introduction to Real Time Robotics Systems",
+        "description": "Components of a robot system, robot forward and reverse kinematics; robot dynamics; robot force generation, robot trajectory generation.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: Math 2177 or 2174, or 2415 and 2568; and Physics 1250, 1250H, 1260, or 2300; and CSE 1221, 1222, Engr 1181, 1281.01H, 1281.02H, 1221, or 1222; or Grad standing in Engr; or permission of instructor. Cross-listed in MechEng.",
+        "exclusions": "Not open to students with credit for MechEng 5463 or 7752."
+    },
+    {
+        "number": "5466",
+        "title": "Embedded Computer Systems",
+        "description": "This course introduces the design priniples, analysis methods and case studies of microprocessor-based and time-critical embedded systems, such as sensor and actuator networks, multimedia devices, mobile phones, and avionics. Topics include real-time operating systems, processor scheduling, performance control, resource management, power-aware design, enery optimization, etc.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 5362, or Grad standing in Engr.",
+        "exclusions": "Not open to students with credit for 8194.03."
+    },
+    {
+        "number": "5500",
+        "title": "Nonlinear and Dynamic Programming for ECE",
+        "description": "Introduction to Optimization, including unconstrained optimization, gradient descent, Newton?s method,\n\t\t\tconvexity, constrained optimization, KKT, duality, dynamic programming, basic reinforcement learning, and\n\t\t\tapplications of optimization in ECE.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: Math 2568 and 2415; or Grad standing in Engineering or Math and Physical Sciences",
+        "exclusions": "Not open to students with credit for 5759."
+    },
+    {
+        "number": "5510",
+        "title": "Introduction to Computational Electromagnetics",
+        "description": "Numerical methods for solving Maxwell equations both static and electrodynamics, introduction to finite difference, finite element and integral equation methods, and applied linear algebra.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 3010; or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences.",
+        "exclusions": "Not open to students with credit for 715 or 813."
+    },
+    {
+        "number": "5530",
+        "title": "Fundamentals of Semiconductors for Microelectronics and Photonics",
+        "description": "Crystal structure, semiconductor energy band structure, electron transport and carrier recombination, heterostructures, optical and dielectric properties",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 3030, or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences",
+        "exclusions": "Not open to students with credit for ECE 730"
+    },
+    {
+        "number": "5537",
+        "title": "Semiconductor Device Characterization and Modeling Lab",
+        "description": "Laboratory course in material characterization, device fabrication, testing and modeling.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "4.0",
+        "prerequisites": "Prereq: 3030, or Grad standing in Engr or Physics.",
+        "exclusions": "Not open to students with credit for ECE 5194.17"
+    },
+    {
+        "number": "5550",
+        "title": "Feedback Control Engineering for Social Justice",
+        "description": "Models of individual and group poverty and underdevelopment; computational social justice; assessing social impact of technology; sensitivity analysis for technology prioritization and design; feedback control for computer automation of helping to meet social justice objectives. Feedback control for organizational diversity, optimal diverse team formation and functioning.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: Jr, Sr or Grad standing in College of Engineering; or permission of instructor.",
+        "exclusions": "Not open to students with credit for 5194.06."
+    },
+    {
+        "number": "5551",
+        "title": "State-Space Control Systems",
+        "description": "Discrete-time state variable representations; pole placement via state-feedback; introduction to realization theory; observer design; introduction to Kalman filtering; linear quadratic regulator theory.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: ECE 3050 and Stat 3470; or Grad standing.",
+        "exclusions": "Not open to students with credit for 650, 750, or 755."
+    },
+    {
+        "number": "5553",
+        "title": "Autonomy in Vehicles",
+        "description": "First course on automated driving vehicles and their sub-systems; automated driving history and architectures;car following control; steering control for path tracking, lane keeping; collision mitigation and avoidance;localization and situational awareness; lower and higher-level decision making including deep learning;connected vehicle technologies; evaluation of autonomous driving function",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: ECE 3551 or ECE 551 or ECE 5551 or graduate standing in engineering.",
+        "exclusions": "Not open to students with credit for 753.02."
+    },
+    {
+        "number": "5554",
+        "title": "Powertrain Control Systems",
+        "description": "Application of digital control system theory, from viewpoints of input-output and state variable representations, to realistic problems in automotive powertrain systems.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 3551, 5551, or 551, or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences.",
+        "exclusions": "Not open to students with credit for 753.01."
+    },
+    {
+        "number": "5555",
+        "title": "Securing Autonomous Systems",
+        "description": "The course covers different security measures for safeguarding against cyberattacks, detecting cyberattacks, and mitigating the effects of cyberattacks on autonomous control systems.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 3050 and 3551; or Grad standing in Engineering, Math, or Statistics.",
+        "exclusions": ""
+    },
+    {
+        "number": "5560",
+        "title": "Advanced Hardware Architecture Design Techniques",
+        "description": "This course introduces highly-practical methodologies and techniques that can be broadly used to improve the\n\t\t\tefficiency and achieve speed-area-power tradeoffs in the design of application-specific hardware implementation architectures for\n\t\t\tvarious algorithms. Efficient implementation architectures of commonly used arithmetic and digital signal processing functional blocks will also be discussed.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 2050, and prereq or concur: 3561 or 3050; or Grad standing in Engr; or permission of instructor.",
+        "exclusions": "Not open to students with credit for 5194.08."
+    },
+    {
+        "number": "5561",
+        "title": "Introduction to Cybersecurity",
+        "description": "Introduction to cybersecurity. Technical fundamentals of data, software, component, network, and system security. Cybersecurity from an organizational and societal view point, including human factors.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: Junior, senior, or grad standing, or permission of instructor.",
+        "exclusions": "Not open to students with credit for CSE 5471. Cross-listed with CSE 5471."
+    },
+    {
+        "number": "5567.02",
+        "title": "Reverse Engineering and Malware Analysis",
+        "description": "The course will give students an overview of cutting-edge reverse engineering techniques as well as software security and defense practices. Programming experience in C required.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq or concur: ECE 5561.",
+        "exclusions": "Not open to students with credit for CSE 5477.02. Cross-listed in CSE 5477.02."
+    },
+    {
+        "number": "5570 (in limbo)",
+        "title": "Antiracist Technology",
+        "description": "Discrimination against racial and ethnic minorities is prevalent, systemic, and global. Racism and racial justice principles are outlined. Case studies on racist technologies, those that promote or sustain racism, are studied. Engineering design methodology is used to modify or create several new technologies that help the antiracist oppose racism.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "4.0",
+        "prerequisites": "ENGR 1182 or 1282 or graduate engineering standing or permission of instructor.",
+        "exclusions": ""
+    },
+    {
+        "number": "5832",
+        "title": "Photovoltaics and Energy Conversion",
+        "description": "Photovoltaic materials and devices; solar cell device physics; solar cell simulation, design and operation; silicon cell technologies; thin film technologies; III-V technologies; nanostructures; terrestrial and space applications.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 3030,\u00a0or MatScEn 3271,\u00a0or grad standing in Engr or Physics.",
+        "exclusions": "Not open to students with credit for 835.01."
+    },
+    {
+        "number": "5833",
+        "title": "Organic and Printed Flexible Electronics",
+        "description": "Conducting organic small molecules and polymers (structural, optical and electrical properties); printable metal-oxide semiconductors; Printing techniques, organic light emitting diodes; transport and carrier injection; organic transistors; organic lasers.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq 3030, or MatScEn 3271, permission of instructor for non-ECE majors; or Grad standing in engineering, biological sciences, or math and physical sciences.",
+        "exclusions": "Not open to students with credit for 7833 or 5194.04."
+    },
+    {
+        "number": "6001",
+        "title": "Probability and Random Variables",
+        "description": "Probability, random variables, and random vectors for analysis and research in electrical engineering. Distribution functions, characteristic functions, functions of random variables and vectors, Markov chains.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: Grad standing.",
+        "exclusions": "Not open to students with credit for ECE 804 or 805."
+    },
+    {
+        "number": "6010",
+        "title": "Electromagnetic Field Theory I",
+        "description": "Maxwell's Equations; plane waves; field representations and solutions in unbounded space; waveguides and cavities; elements of Green's Functions; cylindrical and spherical waves; electromagnetic theorems.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: ECE 5010 or ECE 713, and ECE 5011 or ECE 613, or graduate standing in engineering or biological sciences or math & physical sciences.",
+        "exclusions": "Not open to students with credit for ECE 719, ECE 810, or ECE 811."
+    },
+    {
+        "number": "6011",
+        "title": "Bioelectromagnetics",
+        "description": "This course provides an introduction to the inter-disciplinary field of bioelectromagnetics for graduate students. Lectures cover the interaction of electromagnetic fields with biological tissues across the frequency spectrum; bioelectromagnetic dosimetry; and various applications of bioelectromagnetics (medical, consumer, and more).",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: Graduate standing in Engineering, Biological Sciences, Mathematical and Physical Sciences; or permission of instructor.",
+        "exclusions": ""
+    },
+    {
+        "number": "6070",
+        "title": "Project Management in Electrical and Computer Engineering",
+        "description": "Students learn project management principles and apply them to Electrical and Computer Engineering real-world projects.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq:\u00a0 Grad standing in Electrical and Computer Engineering.",
+        "exclusions": "Not open to students with credit for 6194.02."
+    },
+    {
+        "number": "6101",
+        "title": "Computer Communication Networks",
+        "description": "Foundational understanding of network analysis, error-control, routing, congestion-control, multi-access, and their examples in the context of the existing communication networks.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: Undergraduate course in probability or Stat 3470 or Math 530 or Stat 428 or Stat 520 or ECE 6001 or ECE 804. Cross-listed in CSE 6461",
+        "exclusions": "Not open to students with credit for ECE 861, ECE 862, CSE 861, CSE 862 or CSE 6461."
+    },
+    {
+        "number": "6102",
+        "title": "Wireless Networks",
+        "description": "Design principles and communication algorithms for wireless networks with a focus on MAC and routing protocols, scheduling algorithms, power control, and scaling properties.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: none",
+        "exclusions": "Not open to students with credit for both 867 and 894.03."
+    },
+    {
+        "number": "6193",
+        "title": "Individual Studies in Electrical and Computer Engineering",
+        "description": "Individual studies project.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "0.0-12.0",
+        "prerequisites": "Prereq:\u00a0 Permission of instructor.",
+        "exclusions": "Repeatable to a maximum of 12.0 cr hrs or 12 completions. This course is graded S/U."
+    },
+    {
+        "number": "6202",
+        "title": "Stochastic Signal Processing",
+        "description": "Spectrum estimation, array processing, adaptive filtering.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "",
+        "exclusions": "Not open to students with credit for ECE 800 or 801.01."
+    },
+    {
+        "number": "6244",
+        "title": "Design and Process Integration for Wide Band Gap Power Devices",
+        "description": "Design and processing of wide band gap power devices (including SiC, GaN and ultra wide band gap semiconductors) and reliability considerations. 2D device simulations, layout considerations for power chip design, optimization of performance and reliability/qualification for various voltage ranges from 600 V to 15 kV.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: Grad standing in Engineering or Physics.",
+        "exclusions": "Not open to student with credit for 6234."
+    },
+    {
+        "number": "6400",
+        "title": "Introduction to Photogrammetry",
+        "description": "Analytical and digital photogrammetry, bundle block adjustment, analytical camera calibration,\n\t\t\taerotriangulation, image acquisition systems, GPS controlled aerotriangulation, quality control and network\n\t\t\tdesign, DEMs and orthophotography.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: Graduate level enrollment in the College of Engineering; or permission of instructor. Knowledge of linear algebra expected.",
+        "exclusions": "Not open to students with credit for CivilEn 6451. Cross-listed with\u00a0CivilEn 6451."
+    },
+    {
+        "number": "6500",
+        "title": "Convex and Stochastic Network Optimization",
+        "description": "Convex and stochastic optimization theory and algorithms applied to selected electrical engineering application areas.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: Grad standing. Not open to students with credit for 7100.",
+        "exclusions": "Not open to students with credit for 7100."
+    },
+    {
+        "number": "6511",
+        "title": "Nonlinear Optics",
+        "description": "Nonlinear optics for the generation, propagation, amplification, and control of laser light; all-optical switching and solitons; modern applications in high speed lightwave devices and systems.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: 5012, or Grad standing.",
+        "exclusions": ""
+    },
+    {
+        "number": "6531",
+        "title": "Fundamentals of Semiconductor Devices",
+        "description": "An overview of the physics, design, and engineering of semiconductor electronic and optoelectronic devices. Applications of silicon, compound semiconductor, and nanotechnology will be covered.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 5530 (730), or permission of instructor.",
+        "exclusions": "Not open to students with credit for 5531."
+    },
+    {
+        "number": "6532",
+        "title": "Nanofabrication & Nanoscale Devices",
+        "description": "Fundamentals of nanostructures and devices; engineering and physics of new devices, confined structures in low dimensions and their effects on traditional devices; nanofabrication and nanomanufacturing.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: ECE 6531, 5531, or 730 or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences.",
+        "exclusions": "Not open to students with credit for 5532 (835.03)."
+    },
+    {
+        "number": "6533",
+        "title": "Infrared Detector and Systems",
+        "description": "This course will cover the basics of infrared photodetectors and systems. It will include basic geometrical optics, radiometry, figures of merit and types of infrared detectors.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 5530, or permission of instructor.",
+        "exclusions": "Not open to students with credit for 5194.10."
+    },
+    {
+        "number": "6535",
+        "title": "Semiconductor Optoelectronic Devices",
+        "description": "This course will cover the basics and physics of semiconductor optoelectronic devices including light-emitting diodes, semiconductor lasers, photodetectors, and solar cells.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: Grad standing in engineering or physics.",
+        "exclusions": ""
+    },
+    {
+        "number": "6541",
+        "title": "Advanced Topics in Sustainable Energy and Power Systems",
+        "description": "Advanced topics in sustainable energy and power systems; basic issues and solutions to sustainable energy; the concept of smart grid; cyber control and security.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: ECE 5025 (624) or 724.",
+        "exclusions": "Not open to students with credit for ECE 5541."
+    },
+    {
+        "number": "6750",
+        "title": "Linear System Theory",
+        "description": "In-depth treatment of linear dynamical systems. State equations solution. Controllability and observability. Canonical forms. Internal and external stability. Linear feedback and observer design. Geometric theory.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisites: ECE 5551 or ECE 551 or graduate standing in engineering or math & physical sciences.",
+        "exclusions": "Not open to students with credit for ECE 5750 (750)."
+    },
+    {
+        "number": "6754",
+        "title": "Nonlinear Systems Theory",
+        "description": "Provides fundamental mathematical tools for the analysis of nonlinear dynamical systems. Basic techniques for the synthesis of nonlinear control systems are introduced.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "none listed",
+        "exclusions": "Not open to students with credit for ECE 5754."
+    },
+    {
+        "number": "6999",
+        "title": "Research for Thesis",
+        "description": "Research for thesis.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "0.5-15.0",
+        "prerequisites": "Repeatable to a maximum of 15.0 cr hrs or 30 completions. This course is graded S/U.",
+        "exclusions": ""
+    },
+    {
+        "number": "7001",
+        "title": "Stochastic Processes, Detection, and Estimation",
+        "description": "Stochastic processes; detection and decision theory; hypothesis testing, parameter estimation; applications to communications and signal processing.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: ECE 6001 or ECE 804.",
+        "exclusions": "Not open to students with credit for ECE 806."
+    },
+    {
+        "number": "7003",
+        "title": "Wireless Communication Theory",
+        "description": "Theory and analysis of wireless communication systems. Topics include: multipath fading channels; modulation, equalization, and coding for fading channels; MIMO systems; capacity calculations.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: ECE 804 or ECE 6001.",
+        "exclusions": "Not open to students with credit for ECE 807 or 809."
+    },
+    {
+        "number": "7005",
+        "title": "Information Theory",
+        "description": "Mathematical models for channels and sources: entropy, information, data compression, channel capacity, Shannon's theorems, rate distortion theory.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: ECE 804 or ECE 6001.",
+        "exclusions": "Not open to students with credit for ECE 801.02"
+    },
+    {
+        "number": "7010",
+        "title": "Electromagnetic Field Theory II",
+        "description": "Green's functions with applications; spectral representation of sources; sources in layered media and Sommerfeld integrals; time-domain fields, retarded potentials, and transients; periodic structures; integral equations.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: ECE 719 or ECE 6010.",
+        "exclusions": "Not open to students with credit for ECE 810 and ECE 811."
+    },
+    {
+        "number": "7011",
+        "title": "Computational Electromagnetics",
+        "description": "Advanced topics in numerical methods for solving Maxwell equations, including finite element methods, integral equation methods, and their hybridization.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: ECE 715 or ECE 5510 or ECE 6010",
+        "exclusions": "Not open to student with credit for ECE 813 or ECE 814."
+    },
+    {
+        "number": "7020",
+        "title": "Advanced Data Converters and Phase-Locked Loops",
+        "description": "A comprehensive overview of the most recent system architectures of data converters and phase-locked loops.\u00a0 Provides a good understanding how performance specifications and process technology limitations lead to implementation decisions.\u00a0 The presented principles are illustrated by examples and real life case studies.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 5021 or 5023, or permission of instructor.",
+        "exclusions": ""
+    },
+    {
+        "number": "7022",
+        "title": "Advanced RF Integrated Circuits",
+        "description": "Advanced topics on RF and mm-wave circuits. Frequency synthesizers, transmitter linearization techniques (e.g. polar circuits),\u00a0 MIMO and phase array circuits, power D/As.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: ECE 620 or ECE 5022 or graduate standing in engineering or biological sciences or math & physical sciences.",
+        "exclusions": "Not open to students with credit for ECE 694K or ECE 694.02."
+    },
+    {
+        "number": "7023",
+        "title": "High Speed Interface Circuits and Systems Design",
+        "description": "Analysis and design of link architectures and circuits for wireline communication systems. Emphasis on design intuition, link budgeting and power/performance trade-offs in implementation of data links in advanced CMOS process. Topics include channel characterization, noise analysis, equalization, transmitter and receiver circuits, signaling schemes, clocking, synchronization and timing recovery.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq or concur: 5020 and 5021, or permission of instructor.",
+        "exclusions": ""
+    },
+    {
+        "number": "7027 (in limbo)",
+        "title": "Advanced Topics in Analog VLSI Design",
+        "description": "Advanced topics in analog VLSI design, such as integrated data converters, or power management integrated circuits, or high-performance analog circuits. This includes: system and circuit architectures, performance metrics, practical implementations, design considerations in advanced semiconductor processes, chip design projects, and lab characterization.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "4.0",
+        "prerequisites": "Prereq or concur: 5021 and 5227; or Grad standing in Engineering, or Math and Physical Sciences, and permission of instructor. Repeatable to a maximum of 8 cr hrs",
+        "exclusions": ""
+    },
+    {
+        "number": "7032",
+        "title": "Physical Electronics of Advanced Semiconductor Devices",
+        "description": "MOSCAPs, Gated Diode, CMOS Bulk/SOI Transistors, Photodiodes, Carrier Transport/Storage, Scaling, Mobility, CCDs, CMOS, EEPROMs, SiGe, SiC, ISFETs, BJTs, Noise and Modeling.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 5530 (730) or 6531.",
+        "exclusions": "Not open to students with credit for 894 (Spring 12, Class number 26147) or 8194.04."
+    },
+    {
+        "number": "7103",
+        "title": "Discrete Stochastic Processes",
+        "description": "Stochastic processes in discrete time or space for electrical engineering. Renewal theory, Markov chains and processes, dynamic programming, basic large deviations theory and martingales.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: ECE 804 or ECE 6001.",
+        "exclusions": "Not open to students with credit for ECE 894Q or ECE 894.01."
+    },
+    {
+        "number": "7202",
+        "title": "Reinforcement Learning",
+        "description": "Fundamentals of Markov decision processes and reinforcement learning algorithms.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: Grad standing in Engineering or Math. Cross-listed in ISE.",
+        "exclusions": "Not open to students with credit for ISE 7202."
+    },
+    {
+        "number": "7402",
+        "title": "Advanced Machine Learning for Remote Sensing Image Interpretation",
+        "description": "Introduces basic high-resolution remote sensing concepts with focus on optical remote sensing, and computational solutions for typical remote sensing problems. Students are assumed to know basic knowledge in statistical estimation, linear algebra and numerical methods for engineering. Students with prior experiences on remote sensing/machine learning/computer vision will find this easier to follow",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: Graduate standing, or instructor permission. Cross-listed with CivilEn 7421.",
+        "exclusions": "Not open to students with credit for CivilEn 7421."
+    },
+    {
+        "number": "7531",
+        "title": "Epitaxial Heterostructures (cross-listed with MSE)",
+        "description": "Science and techniques behind thin film growth and engineering for combining different materials, altering chemical composition at the nanometer scale, while controlling defects and strain. Epitaxial crystal growth will be explained. Students will gain an understanding of the kinetics, thermodynamics, and technology involved in epitaxial heterostructures and self-assembled nanostructures.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "2.0",
+        "prerequisites": "Prereq:\u00a0 Grad standing.",
+        "exclusions": "Not open to students with credit for MSE 7531. Cross-listed in MSE."
+    },
+    {
+        "number": "7813",
+        "title": "Advanced Antenna Theory and Design",
+        "description": "Topics in Advanced Antenna Theory and Design",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 5011 or 613, or Grad standing in Engineering, Biological Sciences, or Math and Physical Sciences",
+        "exclusions": "Not open to students with credit for ECE 815."
+    },
+    {
+        "number": "7814",
+        "title": "Microwave Remote Sensing",
+        "description": "Description of microwave remote sensing systems. Theories of scattering from random media and rough surfaces.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 6010.",
+        "exclusions": "Not open to students with credit for 816."
+    },
+    {
+        "number": "7821",
+        "title": "Mixed Signal Verification and CAD Tools",
+        "description": "Principles of combining analog, RF, and digital design, simulation, and verification strategies using modern CAD tools",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: ECE 622 or ECE 720 or ECE 5020.",
+        "exclusions": "Not open to students\u00a0 with credit for ECE 894Z or ECE 822."
+    },
+    {
+        "number": "7822",
+        "title": "Advanced Nonlinear Microwave Circuit Engineering",
+        "description": "Large-signal characterization and modeling of nonlinear RF circuits; power amplifiers; oscillators; modulators; wideband linearization, power efficient design.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: ECE 723 or ECE 5027.",
+        "exclusions": "Not open to students with credits in ECE 694.02 or ECE 694K."
+    },
+    {
+        "number": "7831",
+        "title": "High speed Semiconductor Devices",
+        "description": "Principles of microwave semiconductor devices; scattering and high-field transport; Gunn effect; FET wave equation, HEMT; HBT; large signal RF modeling and measurements; noise; traps; self-heating.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: Grad standing in Engr or Physics.",
+        "exclusions": "Not open to students with credit for ECE 832."
+    },
+    {
+        "number": "7841",
+        "title": "Advanced Topics in Power Electronics",
+        "description": "Advanced topics of power electronics, beginning with utility and vehicle applications and evolving into advanced circuit topologies and control.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: ECE 624 or ECE 5025.",
+        "exclusions": "Not open to students with credit for ECE 844."
+    },
+    {
+        "number": "7842",
+        "title": "Advanced Topics in Electric Machines",
+        "description": "Advanced topics of electric machines, beginning with dynamic modeling and principles of vector control and evolving into new design and control of electric machines for advanced traction motors and renewable energy generator systems.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 5041 and 5025, or permission of instructor.",
+        "exclusions": "Not open to students with credit for 743, 744, or 845."
+    },
+    {
+        "number": "7843",
+        "title": "Advanced Topics in Power Systems",
+        "description": "Advanced topics of power system protection, beginning with equipment protection and evolving into system wide protection design and operation to accommodate smart-grid technologies.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite; ECE 5042 or 740.",
+        "exclusions": "Not open to students with credit for ECE 741."
+    },
+    {
+        "number": "7858",
+        "title": "Intelligent Control",
+        "description": "Fuzzy control, neural control, genetic algorithms, learning control, and distributed intelligent control",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 5551 (551) or equiv.",
+        "exclusions": "Not open to students with credit for ECE 858."
+    },
+    {
+        "number": "7861",
+        "title": "Scientific Computing on Emerging Architectures",
+        "description": "Introduction to the architectural system design of emerging architectures and techniques for managing idiosyncrasies of these architectures for developing scientific computing applications.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 5362, 762, CSE 2431, or 5431.",
+        "exclusions": "Not open to students with credit for 694J or 694.03."
+    },
+    {
+        "number": "7866",
+        "title": "Computer Vision",
+        "description": "Computer vision systems, image models, feature extraction, shape representation and recognition, object modeling and recognition, matching, probabilistic and statistical modeling, semantic knowledge, face perception.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prereq: 5460 (707).",
+        "exclusions": "Not open to students with credit for 863."
+    },
+    {
+        "number": "8001",
+        "title": "Advanced Topics in Communications",
+        "description": "Current topics in information theory and the practice of digital communications.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: ECE 6001.",
+        "exclusions": "Repeatable to a maximum of 6 cr hrs."
+    },
+    {
+        "number": "8019",
+        "title": "Advanced Topics in Electromagnetics and Optics",
+        "description": "Topics are chosen to prepare graduate students for research and application in current problems in electromagnetics and optics.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: ECE 719 or ECE 6010.",
+        "exclusions": ""
+    },
+    {
+        "number": "8101",
+        "title": "Advanced Topics in Networks",
+        "description": "Advanced topics and new areas of interest in the theory of networking and networked systems.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: ECE 804 or ECE 6001.",
+        "exclusions": ""
+    },
+    {
+        "number": "8193",
+        "title": "Individual Studies in Electrical and Computer Engineering",
+        "description": "Individual studies project.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "0.0-12.0",
+        "prerequisites": "Prereq:\u00a0 Permission of instructor.",
+        "exclusions": "Repeatable to a maximum of 12.0 cr hrs or 12 completions. This course is graded S/U."
+    },
+    {
+        "number": "8201",
+        "title": "Advanced Topics in Signal Processing",
+        "description": "Current topics in the theory and practice of signal processing.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: ECE 806 or ECE 7001.",
+        "exclusions": ""
+    },
+    {
+        "number": "8250",
+        "title": "Continuous Time Optimal Control",
+        "description": "Embraces the three historical trends in dynamic optimization: Calculus of Variations, Pontryagin's Minimum Principle, and Bellman's Principle of Optimality. Not only mathematical aspects of the three principles will be taught, but also their strengths and weaknesses - it is often less important to know how to apply a given principle than to know when.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Cross-listed with ME8220.",
+        "exclusions": "Not open to students with credit for MechEng 8220."
+    },
+    {
+        "number": "8850",
+        "title": "Robust Multi-Variable Control with Applications",
+        "description": "Advanced concepts for robust control of uncertain dynamic systems with applications.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "6750 or AERO 5620 or AERO 5621 or instructor permission.Cross-Listings: AERO 8850.",
+        "exclusions": "Not open to students with credit for AERO 8850"
+    },
+    {
+        "number": "8851",
+        "title": "Advanced Topics in Control Theory",
+        "description": "Current topics in control theory, optimization, and decision theory.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: Permission of instructor.",
+        "exclusions": "Repeatable to a maximum of 6.0 credit hours or 2 completions."
+    },
+    {
+        "number": "8861",
+        "title": "Special Topics on Computational Modeling",
+        "description": "Reviews the latest computational models and advanced methods for modeling processes of diverse sorts.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Reviews the latest computational models and advanced methods for modeling processes of diverse sorts.",
+        "exclusions": ""
+    },
+    {
+        "number": "8862",
+        "title": "Special Topics in Advanced Computer Design Methodologies",
+        "description": "Design automation, computer aided design, testing, and design for energy efficiency.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "3.0",
+        "prerequisites": "Prerequisite: Grad standing in Engineering. Repeatable to a maximum of 9 cr hrs.",
+        "exclusions": ""
+    },
+    {
+        "number": "8891",
+        "title": "Seminar in Electrical and Computer Engineering",
+        "description": "Seminar in electrical and computer engineering.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "0.5-2.0",
+        "prerequisites": "Prerequisite: Graduate standing in electrical and computer engineering. Repeatable to a maximum of 12.0 cr hrs or 6 completions. This course is graded S/U.",
+        "exclusions": ""
+    },
+    {
+        "number": "8898",
+        "title": "Open Graduate Seminar",
+        "description": "As an introduction to potential research areas, students will attend OSU sponsored talks relevant to topics in Electrical Engineering and cr4itique them by written reports.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "0.5-3.0",
+        "prerequisites": "Prerequisite: Graduate standing in electrical and computer engineering. Repeatable to a maximum of 6.0 cr hrs or 6 completions. This course is graded S/U.",
+        "exclusions": ""
+    },
+    {
+        "number": "8998.01",
+        "title": "Graduate Research in Electrical and Computer Engineering",
+        "description": "Supervised graduate research in various topics. Not for thesis or dissertation.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "0.5 - 3.0",
+        "prerequisites": "Prereq: Grad standing in ECE.",
+        "exclusions": ""
+    },
+    {
+        "number": "8998.02",
+        "title": "Graduate Research in Electrical and Computer Engineering",
+        "description": "Supervised graduate research in various topics. Not for thesis or dissertation.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "0.5 - 3.0",
+        "prerequisites": "Prereq: Grad standing in ECE.",
+        "exclusions": ""
+    },
+    {
+        "number": "8999",
+        "title": "Research for Dissertation",
+        "description": "Research for dissertation.",
+        "subject": "Electrical and Computer Engineering",
+        "units": "0.5-15.0",
+        "prerequisites": "Repeatable to a maximum of 30 completions. This course is graded S/U.",
+        "exclusions": ""
+    }
+]
